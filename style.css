@@ -13,13 +13,12 @@ body {
 }
 
 .principal{
-    background: #000000;
+    background: #ffffff;
     padding: 30px;
 }
 
 h1 {
    text-align: center;
-}
 }
 
 p {
@@ -31,7 +30,7 @@ p {
 }
 
 strong {
-    color: rgba(0, 0, 0, 0.596);
+    color: rgba(54, 53, 53, 0.596);
 }
 
 .itens{
