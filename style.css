@@ -13,7 +13,7 @@ body {
 }
 
 .principal{
-    background: #ffffff;
+    background: #000000;
     padding: 30px;
 }
 
@@ -31,7 +31,7 @@ p {
 }
 
 strong {
-    color: rgba(250, 249, 249, 0.596);
+    color: rgba(0, 0, 0, 0.596);
 }
 
 .itens{
@@ -39,7 +39,7 @@ strong {
 }
 
 .benefícios{
-    background: #838282;
+    background: #000000;
     padding: 20px;
 }
 
