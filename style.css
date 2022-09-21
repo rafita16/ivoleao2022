@@ -1,0 +1,59 @@
+body {
+    background: #838282;
+   
+}
+
+#imagem.trabalho {
+    
+    width: 50%;
+    margin-right: 25%;
+    margin-left: 25%;
+    text-align: center;
+   
+}
+
+.principal{
+    background: #838282;
+    padding: 30px;
+}
+
+h1 {
+   text-align: center;
+}
+}
+
+p {
+    text-align: center;
+}
+
+#missao {
+    font-size: 20px
+}
+
+strong {
+    color: rgba(17, 16, 16, 0.596);
+}
+
+.itens{
+    font-style: italic;
+}
+
+.benefícios{
+    background: #838282;
+    padding: 20px;
+}
+
+h2 {
+    text-align:center;
+}
+ul {
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+}
+
+.imagembeneficios{
+      width: 50%;
+
+}
