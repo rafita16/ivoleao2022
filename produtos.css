@@ -2,6 +2,11 @@ header {
      background: #000000;
 }
 
+.logo {
+    width: 350px;
+    height: 250px;
+}
+
 nav li {
     display: inline;
 }
