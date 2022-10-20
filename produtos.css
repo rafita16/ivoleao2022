@@ -6,9 +6,13 @@ header {
     width: 350px;
     height: 250px;
 }
+.caixa {
+    position: relative;
+    width: 940px;
+}
 nav {
     position: absolute;
-    top: 0;
+    top: 110px;
     right: 0;
 }
 
