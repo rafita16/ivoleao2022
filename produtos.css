@@ -6,6 +6,11 @@ header {
     width: 350px;
     height: 250px;
 }
+nav {
+    position: absolute;
+    top: 0;
+    right: 0;
+}
 
 nav li {
     display: inline;
