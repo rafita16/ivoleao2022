@@ -35,6 +35,10 @@ nav a {
     height: 350px;
     width: 350px;
 }
+.Produtos {
+    width: 940px;
+    margin: 0 auto;
+}
 
 .Produtos li {
     display: inline-block;
