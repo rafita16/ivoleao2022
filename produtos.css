@@ -35,3 +35,7 @@ nav a {
     height: 350px;
     width: 350px;
 }
+
+.produtos li {
+    display: inline-block;
+}
