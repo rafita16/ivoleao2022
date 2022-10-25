@@ -30,3 +30,8 @@ nav a {
     font-size: 22px;
     text-decoration: none;
 }
+
+.imagem {
+    height: 350px;
+    width: 350px;
+}
