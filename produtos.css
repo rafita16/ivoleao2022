@@ -38,8 +38,12 @@ nav a {
 .Produtos {
     width: 940px;
     margin: 0 auto;
+    padding: 50px 0;
 }
 
 .Produtos li {
     display: inline-block;
+    text-align:center;
+    width:30%;
+    vertical-align: top;
 }
