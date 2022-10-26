@@ -33,6 +33,7 @@ nav a {
 
 nav a:hover {
     color: #c433a4;
+    text-decoration: underline;
 }
 
 .imagem {
