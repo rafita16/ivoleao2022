@@ -88,4 +88,5 @@ produto-preco {
 footer {
     text-align: center;
     background-color: url("bg.jpg");
+    padding: 40px 0;
 }
