@@ -31,6 +31,10 @@ nav a {
     text-decoration: none;
 }
 
+nav a:hover {
+    color: #c433a4;
+}
+
 .imagem {
     height: 250px;
     width: 250px;
